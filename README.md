@@ -15,3 +15,4 @@ Yea sure fork it and add some new lines go ahead
 
 # Are you hosting your own server?
 Yea download the release!
+Servers offline bcs i am out of money rn :)
